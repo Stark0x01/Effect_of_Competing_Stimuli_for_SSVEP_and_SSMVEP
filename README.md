@@ -1,0 +1,2 @@
+# Effect_of_Competing_Stimuli_for_SSVEP_and_SSMVEP
+code for SSMVEP stimuli generation
